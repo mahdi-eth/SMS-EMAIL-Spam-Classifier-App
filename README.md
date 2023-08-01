@@ -46,4 +46,4 @@ This app is for educational and personal use only and is not intended for commer
 
 ## Contact
 
-If you have any questions or need further assistance, please contact [me](https://mahdi-eth.netlify.app).
+If you have any questions or need further assistance, please contact [me](https://mahdieth.netlify.app).
