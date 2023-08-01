@@ -1,4 +1,1 @@
 streamlit
-pickle
-string
-nltk
